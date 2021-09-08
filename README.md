@@ -3,11 +3,11 @@
 
 ## GENERAL INFO:
 
-All assignments are due before class, in the relevant folder on this Google Drive
+All assignments are due before class, in the relevant folder on this [Google Drive](https://drive.google.com/drive/folders/1RY8HgZOwpG8qho7a7OvMWrj_0k4Ef3up?usp=sharing)
 
 Name them **YourName_AssignmentTitle**
 
-If it's a build, try to make both Win and Mac builds.  Compress the whole build (the exe, data folder, and any additional files that unity makes).  If you're having issues making builds, get a few minutes of gameplay capture and upload that.
+If it's a build, try to make both Win and Mac builds.  Compress the whole build (the exe, data folder, and any additional files that Unity makes).  If you're having issues making builds, get a few minutes of gameplay capture and upload that.
 
 
 ## WEEK 1 ASSIGNMENT: Game Audio Analysis
