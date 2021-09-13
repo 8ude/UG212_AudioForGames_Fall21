@@ -10,6 +10,32 @@ Name them **YourName_AssignmentTitle**
 If it's a build, try to make both Win and Mac builds.  Compress the whole build (the exe, data folder, and any additional files that Unity makes).  If you're having issues making builds, get a few minutes of gameplay capture and upload that.
 
 
+WEEK 2 ASSIGNMENTS
+------
+
+
+DUE Monday, September 20 at 4 pm.  This assignment is also avalable [AT THIS LINK](https://docs.google.com/document/d/1-brqxZFMzU7TiCHPviXjwtxdSyuLEn5Pa6WXwRQ5lkc/edit?usp=sharing), where you can respond in writing if you wish.
+
+**Creating:** Make a 1-3 minute "Sound Story" In Reaper, and upload it [HERE](https://drive.google.com/drive/folders/1fTybOzIliOeVBejwyo1RUmAQvfOdzSdI?usp=sharing).  
+It might help to start with a setting that you want to convey, or some kind of scenario, or you can just grab a bunch of different sounds and make an audio collage!  Try to Experiment with changes in Envelopes, Pitch, Panning, and Volume to tell your story.  
+
+**Reading** [John Cage - Lecture on Nothing](https://seansturm.files.wordpress.com/2012/09/john-cage-lecture-on-nothing.pdf)
+
+Read the first 3 pages
+
+Consider or the following:
+ - Read a bit of the piece out loud, taking care to wait when there is space on the page
+ - Py attention to the sounds that you hear in pauses between the words.  What do you hear?
+ - Is this more a piece of music?  Of poetry?  Of just sounds?
+ 
+**Listening:** [The Art Ensemble of Chicago - Illistrum](https://www.youtube.com/watch?v=xxjf54tsWEc)
+
+Consider or respond in writing:
+  - How many different instruments can you count in this piece?  Where do they use more tonal sounds?  More noisey ones?
+  - How do you think the instruments and sound effects relate to the story?  Is it complementing the story?  Setting the scene?  Following the emotional arc?  
+  - Are there moments where you think the instruments feel completely in sync with the storyteller?  or completely detached?
+
+
 ## WEEK 1 READING: 
 
 Read the following sections from Jack Schaedler's website: [Intro, Signals and Sounds](https://jackschaedler.github.io/circles-sines-signals/) and [Sines and Sampling](https://jackschaedler.github.io/circles-sines-signals/part2.html)
