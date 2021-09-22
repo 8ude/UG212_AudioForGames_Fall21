@@ -19,7 +19,7 @@ Take one of the spell sounds or supermoves from [THIS FOLDER](https://drive.goog
 
 and create the audio from scratch.  At least one layer of the sound should be synthesized - you can use whatever synthesizer you wish (See the [Wiki](https://github.com/8ude/UG212_AudioForGames_Fall21/wiki/%F0%9F%94%8A-Audio-Plugin-and-SFX-Resources) for some free resources).
 
-You will need to make sure you have the ability to view video in Reapers - for that, you need to [DOWNLOAD VLC](https://www.videolan.org/).  If you're having trouble, try following along with [this video](https://www.youtube.com/watch?v=m5eWDeftza4) or checking in with Darwin or Corey during office hours.
+You will need to make sure you have the ability to view video in Reaper - for that, you need to [DOWNLOAD VLC](https://www.videolan.org/).  If you're having trouble, try following along with [this video](https://www.youtube.com/watch?v=m5eWDeftza4) or checking in with Darwin or Corey during office hours.
 
 Some things to strive for:
 
