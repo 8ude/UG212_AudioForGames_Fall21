@@ -30,7 +30,7 @@ Don't worry about anything that isn't part of the spell effect or super move.  T
 
 Some other suggestions:
 
- - Use layers!  Start by making more layers than you need, using both samples and synthesizers, then slowly take things out. There's a great video about layering by sound designer Marshall McGee
+ - Use layers!  Start by making more layers than you need, using both samples and synthesizers, then slowly take things out. [There's a great video about layering by sound designer Marshall McGee](https://www.youtube.com/watch?v=0biAgn2ct0A)
  - Try a spell from a game you're unfamiliar with. Some of these you might have heard 100 times or more if you played the game. Try to approach this as if you were the sound designer, and were just given the animation.
 
 When finished, render a video and [UPLOAD IT HERE](https://drive.google.com/drive/folders/1vwGZ20IKPoaCG1ZzMMLVG5FHULPZqppq?usp=sharing).  Format doesn't really matter, but please be sure it has audio at 44.1 or 48kHz. You can render from Reaper if you get VLC (you might need the latest FFMPEG). Otherwise, something like Adobe Rush works well.
