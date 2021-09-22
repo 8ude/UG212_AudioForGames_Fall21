@@ -10,6 +10,32 @@ Name them **YourName_AssignmentTitle**
 If it's a build, try to make both Win and Mac builds.  Compress the whole build (the exe, data folder, and any additional files that Unity makes).  If you're having issues making builds, get a few minutes of gameplay capture and upload that.
 
 
+WEEK 3 ASSIGNMENT
+------
+
+DUE Monday, September 27 at 4 pm
+
+Take one of the spell sounds or supermoves from [THIS FOLDER](https://drive.google.com/drive/folders/1W4l-TIUUXSLRCQbpDpSHbq8IW9mHJmbf?usp=sharing) 
+
+and create the audio from scratch.  At least one layer of the sound should be synthesized - you can use whatever synthesizer you wish (See the [Wiki](https://github.com/8ude/UG212_AudioForGames_Fall21/wiki/%F0%9F%94%8A-Audio-Plugin-and-SFX-Resources) for some free resources).
+
+You will need to make sure you have the ability to view video in Reapers - for that, you need to [DOWNLOAD VLC](https://www.videolan.org/).  If you're having trouble, try following along with [this video](https://www.youtube.com/watch?v=m5eWDeftza4) or checking in with Darwin or Corey during office hours.
+
+Some things to strive for:
+
+ - Try to match the **_motion_** of the effect through the sound. If it's very chaotic, then you might have a lot of noisey layers.  If it's more precise, then maybe have some focused tones tones. If there's a charge up, you probably want an ascending sound. 
+ - Try to match the **_style_** of game. If it's coming from a sci fi world, you might use more single tones (sine, square or saw waves).  If it's a fantasy fireball, you will probably want more filtered noise, shaped with an envelope.
+
+Don't worry about anything that isn't part of the spell effect or super move.  Things like voice, footsteps, enemy or creature noises, and music are not relevant to this assignment.
+
+Some other suggestions:
+
+ - Use layers!  Start by making more layers than you need, using both samples and synthesizers, then slowly take things out. There's a great video about layering by sound designer Marshall McGee
+ - Try a spell from a game you're unfamiliar with. Some of these you might have heard 100 times or more if you played the game. Try to approach this as if you were the sound designer, and were just given the animation.
+
+When finished, render a video and [UPLOAD IT HERE](https://drive.google.com/drive/folders/1vwGZ20IKPoaCG1ZzMMLVG5FHULPZqppq?usp=sharing).  Format doesn't really matter, but please be sure it has audio at 44.1 or 48kHz. You can render from Reaper if you get VLC (you might need the latest FFMPEG). Otherwise, something like Adobe Rush works well.
+
+
 WEEK 2 ASSIGNMENTS
 ------
 
