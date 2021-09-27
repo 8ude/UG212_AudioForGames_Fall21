@@ -9,6 +9,27 @@ Name them **YourName_AssignmentTitle**
 
 If it's a build, try to make both Win and Mac builds.  Compress the whole build (the exe, data folder, and any additional files that Unity makes).  If you're having issues making builds, get a few minutes of gameplay capture and upload that.
 
+WEEK 4 ASSIGNMENT - RECORDING
+------
+
+DUE Monday, October 4 at 4 pm
+
+Take a new clip of an action/spell/gameplay effect from [HERE](https://drive.google.com/drive/folders/1W4l-TIUUXSLRCQbpDpSHbq8IW9mHJmbf?usp=sharing).  Try one that you didn’t use last week.
+
+This time, every layer of your sound needs to be recorded from scratch!
+
+You can use any effects you want.  I highly recommend experimenting with pitch shifting, effects plugins, and automation envelopes.
+
+Things to keep in mind:
+
+ - it's going to be difficult to record in a "dry" environment, but do your best to minimize outside noise.
+
+ - record 5 seconds of "silence" before you start your sound effect - you can use this to remove background noise.
+ - get creative!  you're not going to be able to make a realistic explosion sound, but get some inspiration from [Marshall McGee on how you can use objects around you, and the microphone on an iPhone mic](https://www.youtube.com/watch?v=-_TGR2ux0nE)
+
+As last week, render it out as a video. Upload it [HERE](https://drive.google.com/drive/folders/127FvQkqpkBE18GyhftSEYLrQE7daCo8V?usp=sharing)
+
+
 
 WEEK 3 ASSIGNMENT
 ------
