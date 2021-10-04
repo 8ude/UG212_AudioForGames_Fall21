@@ -24,7 +24,7 @@ Some tips:
  - You may run into issues with mixing, as there is a lot happening on the screen and it can't all be at the same volume.  Make use of compression, side chaining, EQ, and panning to give enough "space" for the most important parts of the action.
  - You're now responsible for everything in the scene! That does NOT mean that every little particle needs to have a sound, but it DOES mean that you should be intentional about what is making noise and what is not. Great sound design is all about the details. 
 
-As before, render out a video and **[Upload your scene redesigns here](https://drive.google.com/drive/folders/1GhUDBwb0WsKHzuBfxq_3UX2dxmIpcV9x?usp=sharing)
+As before, render out a video and **[Upload your scene redesigns here](https://drive.google.com/drive/folders/1GhUDBwb0WsKHzuBfxq_3UX2dxmIpcV9x?usp=sharing)**
 
 WEEK 4 ASSIGNMENT - RECORDING
 ------
