@@ -9,6 +9,23 @@ Name them **YourName_AssignmentTitle**
 
 If it's a build, try to make both Win and Mac builds.  Compress the whole build (the exe, data folder, and any additional files that Unity makes).  If you're having issues making builds, get a few minutes of gameplay capture and upload that.
 
+WEEK 5 ASSIGNMENT - FULL SCENE REDESIGN
+-----
+
+DUE TUESDAY October 12 at 4 pm
+
+This week you'll be working with some longer and more complex clips of gameplay footage (20-30 seconds), and now you can use any technique at your disposal to re-create the sound. 
+
+**[Here is the folder to pick clips from](https://drive.google.com/drive/folders/1P8NaP6qP-H9xRLBZJLeS5e1FJl7EElTA?usp=sharing)**
+
+Some tips:
+
+ - The scenes may feel a bit overwhelming, so do some planning to break the scene down into actions (moments on the timeline) and layers (ambience, player actions, non-player actions, UI, etc).
+ - You may run into issues with mixing, as there is a lot happening on the screen and it can't all be at the same volume.  Make use of compression, side chaining, EQ, and panning to give enough "space" for the most important parts of the action.
+ - You're now responsible for everything in the scene! That does NOT mean that every little particle needs to have a sound, but it DOES mean that you should be intentional about what is making noise and what is not. Great sound design is all about the details. 
+
+As before, render out a video and **[Upload your scene redesigns here](https://drive.google.com/drive/folders/1GhUDBwb0WsKHzuBfxq_3UX2dxmIpcV9x?usp=sharing)
+
 WEEK 4 ASSIGNMENT - RECORDING
 ------
 
