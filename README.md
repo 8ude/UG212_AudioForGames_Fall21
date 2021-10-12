@@ -9,6 +9,40 @@ Name them **YourName_AssignmentTitle**
 
 If it's a build, try to make both Win and Mac builds.  Compress the whole build (the exe, data folder, and any additional files that Unity makes).  If you're having issues making builds, get a few minutes of gameplay capture and upload that.
 
+PROJECT 1 - 2D reskin part 1
+------
+Due Monday, October 18 at 4 pm Eastern
+
+Upload both Windows and Mac builds [HERE](https://drive.google.com/drive/folders/1JvcbjR1LKh-UuToQrr3Z2ZBjLPjQisp2?usp=sharing)
+
+Gabe Cuzzillo's game "Block Dog" is silent.  Clone this repo, open BlockDog in Unity Hub (Unity version 2020.3.20f1), and give it sound!
+
+If you need a Unity refresher, are new to the program, or just need a written refence on what to do, you can find a write up [HERE](https://docs.google.com/document/d/1Iy4nT3MbeoLoDfEP5K5wEiEsUHY7wQRriO0M3FbfPro/edit?usp=sharing)
+
+You should be working in the Scene called "Block Dog", on the Prefab called "AudioDirector."  Your work begins at the header **Start Editing Stuff Here**. The minimum is to create **12** assets for the game.  2 of these are loops - the Danger Loop and the Background Music (which could also be background ambience, if you prefer)
+
+You can use:
+* Whatever you find on the internet, or in the Audio for Digital Games Library.
+* Anything using synthesis, if you wish.
+* Any effects, including vst plugins that you find on the internet.  For example, [this](https://glitchmachines.com/products/fracture/) is a free one that was used a lot on the game Prey, and can mangle sounds into something completely different!
+* Anything you record.
+
+You are free to make any code modifications, as long as they only affect the audio
+
+Things to avoid:
+* Any Un-modified samples. You need to modify the sounds from freesound or the library in some way (changing pitch, layering, stretching, adding effects, etc).
+* Repeating sounds for different actions (for example, using the same sound for "jump" as for "throw").  Try to re-use *portions* of a sound in other sounds.  
+* Sounds that start "late" - your sounds should have little to no silence (0.01 seconds max) at the beginning.
+* Sounds that end "early" - your sounds should always fade to silence.  
+* Clicks/Pops in your loops
+
+Aim for 
+* clarity of actions (can I tell what's going on based on sound?) 
+* consistency (does the sound seem to match with the visuals and animations?)
+and, most importantly, 
+* a sense of style/aesthetics (are the sounds augmenting the game in a way that gives it life and character?).
+
+
 WEEK 5 ASSIGNMENT - FULL SCENE REDESIGN
 -----
 
