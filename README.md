@@ -9,6 +9,20 @@ Name them **YourName_AssignmentTitle**
 
 If it's a build, try to make both Win and Mac builds.  Compress the whole build (the exe, data folder, and any additional files that Unity makes).  If you're having issues making builds, get a few minutes of gameplay capture and upload that.
 
+Project 1 - 2D reskin part 2
+------
+Due Monday, October 25 at 4 pm Eastern
+
+Your creative director applauds your efforts, but wants to go in a different direction for the audio design.  
+
+You've been assigned a unique audio limitation for this assignment. If you had a set of samples to use, those can be found [HERE](https://drive.google.com/drive/folders/1tiJoj8GhVeFI1GSK8pOKK2GHkaA8o-Qo?usp=sharing)
+
+Unless otherwise specified, you can do whatever you want with your samples or recordings, but you cannot use audio from anywhere else!
+
+When you're done, please [UPLOAD YOUR BUILDS HERE](https://drive.google.com/drive/folders/14GvHVE557Av_xxvTjC31tpF0Ez-3IMEZ?usp=sharing)
+
+
+
 PROJECT 1 - 2D reskin part 1
 ------
 Due Monday, October 18 at 4 pm Eastern
