@@ -92,7 +92,6 @@ public class PlaySoundOnCollisionFmod : MonoBehaviour
 
         // Adjust volume based on strength of impact
         float factor = Mathf.InverseLerp(minVelocity, maxVelocity, contactVelocity);
-        Debug.Log(collision.gameObject.name);
 
         PlaySound(factor, collision.gameObject);
     }
@@ -122,17 +121,5 @@ public class PlaySoundOnCollisionFmod : MonoBehaviour
             _fmodEmitter.SetParameter("GroundMaterial", 4f);
         }
         
-
-
-        //float debugGround;
-        //_fmodEmitter.EventInstance.getParameterByName("GroundMaterial", out debugGround);
-        //Debug.Log(gameObject.name + "ground material: " + debugGround);
-    }
-
-    private void Update()
-    {
-        float debugGround;
-        _fmodEmitter.EventInstance.getParameterByName("GroundMaterial", out debugGround);
-        Debug.Log(gameObject.name + "ground material: " + debugGround);
     }
 }
