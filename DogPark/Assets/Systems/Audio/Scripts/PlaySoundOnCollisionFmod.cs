@@ -24,6 +24,9 @@ public class PlaySoundOnCollisionFmod : MonoBehaviour
     private const string _ballTypeParam = "BallType";
     public int ballType; // unused for feet sounds
 
+    public int groundType; //0 - grass; 1 - bridge; 2 - water; 3 - cone; 4 - tree
+
+
     void OnCollisionEnter(Collision collision)
     {
         if (!this.enabled) return;
@@ -45,11 +48,15 @@ public class PlaySoundOnCollisionFmod : MonoBehaviour
         if (!this.runOnTrigger) return;
 
         // Check _inTrigger to prevent multiple triggerEnter events for a single entrance
+        
+
         if (runOnCollisionStay || !_inTrigger) {
             _inTrigger = true;
 
+            
+
             // Seems like we can't adjust to velocity when using triggers, so we just play the sound at max volume
-            PlaySound(1f);
+            PlaySound(1f, collider.gameObject);
         }
     }
     void OnTriggerStay(Collider collider) {
@@ -85,12 +92,47 @@ public class PlaySoundOnCollisionFmod : MonoBehaviour
 
         // Adjust volume based on strength of impact
         float factor = Mathf.InverseLerp(minVelocity, maxVelocity, contactVelocity);
-        PlaySound(factor);
+        Debug.Log(collision.gameObject.name);
+
+        PlaySound(factor, collision.gameObject);
     }
 
-    void PlaySound(float volumeFactor) {
+    void PlaySound(float volumeFactor, GameObject otherObj) {
         _fmodEmitter.Play();
         _fmodEmitter.SetParameter(_volumeParam, volumeFactor);
         _fmodEmitter.SetParameter(_ballTypeParam, ballType);
+        if (otherObj.CompareTag("Ground"))
+        {
+            _fmodEmitter.SetParameter("GroundMaterial", 0f);
+        }
+        else if (otherObj.CompareTag("Bridge"))
+        {
+            _fmodEmitter.SetParameter("GroundMaterial", 1f);
+        }
+        else if (otherObj.CompareTag("Water"))
+        {
+            _fmodEmitter.SetParameter("GroundMaterial", 2f);
+        }
+        else if (otherObj.CompareTag("Cone"))
+        {
+            _fmodEmitter.SetParameter("GroundMaterial", 3f);
+        }
+        else if (otherObj.CompareTag("Tree"))
+        {
+            _fmodEmitter.SetParameter("GroundMaterial", 4f);
+        }
+        
+
+
+        //float debugGround;
+        //_fmodEmitter.EventInstance.getParameterByName("GroundMaterial", out debugGround);
+        //Debug.Log(gameObject.name + "ground material: " + debugGround);
+    }
+
+    private void Update()
+    {
+        float debugGround;
+        _fmodEmitter.EventInstance.getParameterByName("GroundMaterial", out debugGround);
+        Debug.Log(gameObject.name + "ground material: " + debugGround);
     }
 }

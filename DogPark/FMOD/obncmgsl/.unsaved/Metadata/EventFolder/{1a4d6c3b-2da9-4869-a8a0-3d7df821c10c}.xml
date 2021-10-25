@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="EventFolder" id="{1a4d6c3b-2da9-4869-a8a0-3d7df821c10c}">
+		<property name="note">
+			<value>You can </value>
+		</property>
+		<property name="name">
+			<value>AmbienceEmitters</value>
+		</property>
+		<relationship name="folder">
+			<destination>{7dbc70f3-392c-4270-9fb2-d067a69b9e5c}</destination>
+		</relationship>
+	</object>
+</objects>

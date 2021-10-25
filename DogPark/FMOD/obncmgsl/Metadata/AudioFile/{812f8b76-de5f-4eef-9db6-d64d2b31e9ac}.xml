@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="AudioFile" id="{812f8b76-de5f-4eef-9db6-d64d2b31e9ac}">
+		<property name="assetPath">
+			<value>Ambience/Birds, Songbird, Sparrow, Isolated, Singing Cheerful Song In Birch Tree SND36802 3.wav</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>96</value>
+		</property>
+		<property name="channelCount">
+			<value>2</value>
+		</property>
+		<property name="length">
+			<value>3.5513020833333333</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{733362b8-cdc6-4319-ae91-1aa2f45544a2}</destination>
+		</relationship>
+	</object>
+</objects>

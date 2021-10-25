@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="AudioFile" id="{83b001eb-6b05-4db4-b0d8-6392761b75a7}">
+		<property name="assetPath">
+			<value>footsteps_shoe_metal_run_03.wav</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>48</value>
+		</property>
+		<property name="channelCount">
+			<value>1</value>
+		</property>
+		<property name="length">
+			<value>0.28014583333333332</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{733362b8-cdc6-4319-ae91-1aa2f45544a2}</destination>
+		</relationship>
+	</object>
+</objects>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="AudioFile" id="{014dd805-6adf-468b-a697-4fd6f288c535}">
+		<property name="assetPath">
+			<value>Feet/HERO - CK - FOOT Sweetener Jump Water Ankle Deep 01 1.wav</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>96</value>
+		</property>
+		<property name="channelCount">
+			<value>2</value>
+		</property>
+		<property name="length">
+			<value>1.7498020833333334</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{733362b8-cdc6-4319-ae91-1aa2f45544a2}</destination>
+		</relationship>
+	</object>
+</objects>

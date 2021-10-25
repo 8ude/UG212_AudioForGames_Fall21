@@ -6,6 +6,10 @@ TagManager:
   tags:
   - Ground
   - winter
+  - Water
+  - Bridge
+  - Cone
+  - Tree
   layers:
   - Default
   - TransparentFX

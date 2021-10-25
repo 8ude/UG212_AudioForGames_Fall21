@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="AudioFile" id="{058c5e25-f5fa-4641-bc30-493c463c5847}">
+		<property name="assetPath">
+			<value>Ambience/Ambience, Park, Birds, Distant Walla, Light Traffic, Children 1 SND0174.wav</value>
+		</property>
+		<property name="isStreaming">
+			<value>true</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>96</value>
+		</property>
+		<property name="channelCount">
+			<value>2</value>
+		</property>
+		<property name="length">
+			<value>12.972604166666667</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{733362b8-cdc6-4319-ae91-1aa2f45544a2}</destination>
+		</relationship>
+	</object>
+</objects>

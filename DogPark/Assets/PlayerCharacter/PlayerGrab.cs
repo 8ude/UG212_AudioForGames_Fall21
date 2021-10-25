@@ -75,6 +75,11 @@ public class PlayerGrab : MonoBehaviour {
 
     private Vector2 cursorPosition;
 
+    //FMOD Vars
+    public FMODUnity.StudioEventEmitter onTargetFMODEvent;
+    public FMODUnity.StudioEventEmitter onGrabFMODEvent;
+    public FMODUnity.StudioEventEmitter onReleaseFMODEvent;
+
 
     // -- lifecycle
     protected void Awake() {
@@ -113,6 +118,8 @@ public class PlayerGrab : MonoBehaviour {
                     if(target != currentTarget) {
                         NotifyUntargetted(currentTarget);
                         currentTarget = target;
+                        Debug.Log("notify grab target");
+                        onTargetFMODEvent.Play();
                         NotifyTargetted(currentTarget);
                     }
                     currentTargetPoint = hitInfo.point;
@@ -137,10 +144,12 @@ public class PlayerGrab : MonoBehaviour {
         var input = Inputs.Play;
         if (currentTarget != null) {
             if (input.GetMouseButtonDown(0))  {
+                onGrabFMODEvent.Play();
                 StartDrag();
             } else if (isDragging && input.GetMouseButton(0)) {
                 Drag();
             } else if (isDragging && input.GetMouseButtonUp(0)) {
+                onReleaseFMODEvent.Play();
                 ReleaseDrag();
             }
         }

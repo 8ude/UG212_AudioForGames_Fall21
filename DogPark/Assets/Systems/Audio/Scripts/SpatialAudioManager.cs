@@ -25,9 +25,12 @@ public class SpatialAudioManager : MonoBehaviour
 
     public FMODUnity.StudioEventEmitter fmodEmitter;
 
+    public float[] debugAudioParams;
+
     // Start is called before the first frame update
     void Start()
     {
+        debugAudioParams = new float[audioRegions.Count];
     }
 
     // Update is called once per frame
@@ -51,7 +54,8 @@ public class SpatialAudioManager : MonoBehaviour
 
             // set the FMOD param for each region:
             fmodEmitter.SetParameter(audioRegions[i].fmodParameter, scaleVolumeForFmod(volume));
-            // Debug.Log(audioRegions[i].fmodParameter + " " + scaleVolumeForFmod(volume));
+            
+            debugAudioParams[i] = scaleVolumeForFmod(volume);
         }
     }
 
