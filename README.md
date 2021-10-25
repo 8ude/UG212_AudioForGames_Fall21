@@ -9,6 +9,31 @@ Name them **YourName_AssignmentTitle**
 
 If it's a build, try to make both Win and Mac builds.  Compress the whole build (the exe, data folder, and any additional files that Unity makes).  If you're having issues making builds, get a few minutes of gameplay capture and upload that.
 
+PROJECT 2 - 3D RESKIN (DOG PARK)
+------
+Due Monday, November 8 at 4 pm Eastern
+
+Clone/pull the repo because it now has a 3D playground for you to explore with your pet companion - the Dog Park!
+
+Just like the 2D game reskin, you need to make the audio for this game from the ground up. You shouldn't need to do any scripting in Unity for this assignment, and nearly all of your changes will be in the FMOD Project. 
+
+However, you are welcome to make code modifications that affect sound if you wish. Be advised that this project is quite a bit more complex than BlockDog, but fortunately the creator is your TA!
+
+You can use whatever assets you which (synthesized, recorded, or taken from a sample library) but I would keep a few things in mind:
+
+* You can now do a lot of layering and envelope manipulation directly in FMOD, so you might not need to work as much in Reaper. However, the best sound design makes use of layering and FX to acheieve the aesthetic goals of the project, and sometimes it's more practical to "bake" this into the sound assets.
+* Ambience is hard to get right! We'll go over a few tools, but take some time to position emitters, find sound effects, and experiment with things like the scatterer instrument in order to make a compelling spatial environment
+* Feel free to lean into a more abstract sound design, but think about characters! What can you do to make a unique player character and pet sounds?
+
+As with Project 1, aim for 
+
+* clarity of actions (can I tell what's going on based on sound?) 
+* consistency (do the sounds work well with other sounds, and match the visuals and animations?)
+and, most importantly, 
+* a sense of style/aesthetics (are the sounds augmenting the game in a way that gives it life and character?).
+
+When finished, create your builds and upload them [HERE](https://drive.google.com/drive/folders/1mO4kScKYbpVabxpj6OsGqr-OAVpokZSv?usp=sharing)
+
 PROJECT 1 - 2D reskin part 2
 ------
 Due Monday, October 25 at 4 pm Eastern
