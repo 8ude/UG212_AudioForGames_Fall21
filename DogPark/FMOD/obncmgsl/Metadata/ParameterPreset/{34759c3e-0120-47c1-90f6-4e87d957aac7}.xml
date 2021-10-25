@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="ParameterPreset" id="{34759c3e-0120-47c1-90f6-4e87d957aac7}">
+		<property name="name">
+			<value>Zone3 Volume</value>
+		</property>
+		<relationship name="folder">
+			<destination>{137134e7-c9c8-477f-a897-311d4a8bfe54}</destination>
+		</relationship>
+		<relationship name="parameter">
+			<destination>{5612bf4d-b2e7-4c5d-baf9-33d1d70261d2}</destination>
+		</relationship>
+	</object>
+	<object class="GameParameter" id="{5612bf4d-b2e7-4c5d-baf9-33d1d70261d2}">
+		<property name="initialValue">
+			<value>0</value>
+		</property>
+	</object>
+</objects>

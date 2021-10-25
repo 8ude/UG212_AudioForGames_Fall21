@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="ParameterPreset" id="{6a28fcd3-47e6-44b1-9aac-80cb590ba037}">
+		<property name="name">
+			<value>OnGround</value>
+		</property>
+		<relationship name="folder">
+			<destination>{a64d7d72-8bbc-4a23-afdb-b47f788a6e66}</destination>
+		</relationship>
+		<relationship name="parameter">
+			<destination>{3b87fe4d-c09a-4fa4-90c3-124335524e00}</destination>
+		</relationship>
+	</object>
+	<object class="GameParameter" id="{3b87fe4d-c09a-4fa4-90c3-124335524e00}">
+		<property name="initialValue">
+			<value>0</value>
+		</property>
+		<property name="seekSpeed">
+			<value>5</value>
+		</property>
+		<property name="seekSpeedDescending">
+			<value>1.8999999761581421</value>
+		</property>
+	</object>
+</objects>

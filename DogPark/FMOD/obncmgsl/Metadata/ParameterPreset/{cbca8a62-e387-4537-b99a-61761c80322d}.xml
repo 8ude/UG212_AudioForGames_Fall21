@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="ParameterPreset" id="{cbca8a62-e387-4537-b99a-61761c80322d}">
+		<property name="name">
+			<value>BallType</value>
+		</property>
+		<relationship name="folder">
+			<destination>{766ea5dc-8686-4ffa-bbbd-87bcb051d088}</destination>
+		</relationship>
+		<relationship name="parameter">
+			<destination>{b94e93cc-d6ac-42c3-900b-f74d2cf4755e}</destination>
+		</relationship>
+	</object>
+	<object class="GameParameter" id="{b94e93cc-d6ac-42c3-900b-f74d2cf4755e}">
+		<property name="parameterType">
+			<value>2</value>
+		</property>
+		<property name="maximum">
+			<value>6</value>
+		</property>
+		<property name="enumerationLabels">
+			<value>Red</value>
+			<value>Blue</value>
+			<value>Christmas</value>
+			<value>Orange</value>
+			<value>Rainbow</value>
+			<value>Green</value>
+		</property>
+		<property name="initialValue">
+			<value>0</value>
+		</property>
+	</object>
+</objects>

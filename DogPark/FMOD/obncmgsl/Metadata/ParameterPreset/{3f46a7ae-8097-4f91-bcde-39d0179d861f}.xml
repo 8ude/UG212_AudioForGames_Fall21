@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="ParameterPreset" id="{3f46a7ae-8097-4f91-bcde-39d0179d861f}">
+		<property name="name">
+			<value>YPos</value>
+		</property>
+		<relationship name="folder">
+			<destination>{a64d7d72-8bbc-4a23-afdb-b47f788a6e66}</destination>
+		</relationship>
+		<relationship name="parameter">
+			<destination>{09cd8f33-4108-4410-9ce2-10a135e44a73}</destination>
+		</relationship>
+	</object>
+	<object class="GameParameter" id="{09cd8f33-4108-4410-9ce2-10a135e44a73}">
+		<property name="maximum">
+			<value>20</value>
+		</property>
+		<property name="initialValue">
+			<value>0</value>
+		</property>
+	</object>
+</objects>

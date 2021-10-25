@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="ParameterPreset" id="{d8b100ca-6fac-4392-bf99-e9f253dbcba3}">
+		<property name="name">
+			<value>InsideCone</value>
+		</property>
+		<relationship name="folder">
+			<destination>{b7c6d45b-a21f-4681-8703-a61ddede1344}</destination>
+		</relationship>
+		<relationship name="parameter">
+			<destination>{1a73341f-baa1-4252-a67b-4d6c73835a8a}</destination>
+		</relationship>
+	</object>
+	<object class="GameParameter" id="{1a73341f-baa1-4252-a67b-4d6c73835a8a}">
+		<property name="isGlobal">
+			<value>true</value>
+		</property>
+		<property name="initialValue">
+			<value>0</value>
+		</property>
+		<property name="isExposedRecursively">
+			<value>false</value>
+		</property>
+	</object>
+</objects>

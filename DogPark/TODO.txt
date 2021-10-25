@@ -1,0 +1,30 @@
+X set up audio regions in FMOD
+X fix volume lerping between regions (currently gets too quiet during transition)
+X add collision sounds
+  X add chord awareness
+X footstep sounds with chord awareness
+X reverb zone in the cone
+
+X fix audio zone placement
+X river sound? (https://qa.fmod.com/t/area-sound-emitter/15748/9)
+
+X fix mountain bridge
+
+- expose more params to fmod:
+ X ball velocity, ball height
+ X player velocity
+ X dog velocity
+ - more collision info (e.g. collision against water (use tags for different materials (Wood, Grass, Player, Pet, Water ...)))
+ - grab/drop event
+ X jump event
+ - what else?
+
+X rearrange ball hit/roll events to be more sensible: single hit event encompassing all ball types
+  X ie single BallHit event with a 'BallType' parameter & ImpactVelocity
+  X single BallMovement event with OnGround, 'BallType' & Velocity params
+
+- cleanup source, remove unused prefabs
+
+- tweak levels
+
+- port SyncAudio to work with fmod (?)

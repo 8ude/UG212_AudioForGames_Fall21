@@ -1,0 +1,46 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: GreenPolkaDotBall
+  m_Shader: {fileID: 4800000, guid: e90a359b0430f4e3aa39c9d879fe2e4c, type: 3}
+  m_ShaderKeywords: 
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs: []
+    m_Floats:
+    - _BlendFactor: 0.63
+    - _DotSize: 0.1
+    - _EndOffset: 1
+    - _GradientScale: 1.5
+    - _Metallic: 0
+    - _NColors: 8
+    - _NPoints: 20
+    - _Smoothness: 0.5
+    - _StartOffset: 0
+    - _UseVertexColors: 1
+    - _YScale: 2
+    m_Colors:
+    - _Color0: {r: 0.6313726, g: 0.9607844, b: 0.654902, a: 1}
+    - _Color1: {r: 0.121568635, g: 0.5372549, b: 0.003921569, a: 1}
+    - _Color2: {r: 0.121568635, g: 0.5372549, b: 0.003921569, a: 1}
+    - _Color3: {r: 0.121568635, g: 0.5372549, b: 0.003921569, a: 1}
+    - _Color4: {r: 0.121568635, g: 0.5372549, b: 0.003921569, a: 1}
+    - _Color5: {r: 0.121568635, g: 0.5372549, b: 0.003921569, a: 1}
+    - _Color6: {r: 0.121568635, g: 0.5372549, b: 0.003921569, a: 1}
+    - _Color7: {r: 0.121568635, g: 0.5372549, b: 0.003921569, a: 1}
+    - _Color8: {r: 0.121568635, g: 0.5372549, b: 0.003921569, a: 1}
+    - _Emission: {r: 0, g: 0, b: 0, a: 0}
+    - _EndColor: {r: 0.6309185, g: 0.9622642, b: 0.65395325, a: 0}
+    - _StartColor: {r: 0.12168883, g: 0.5377358, b: 0.0025364957, a: 1}

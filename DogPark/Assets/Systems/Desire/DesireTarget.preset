@@ -1,0 +1,171 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!181963792 &2655988077585873504
+Preset:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: DesireTarget
+  m_TargetType:
+    m_NativeTypeID: 114
+    m_ManagedTypePPtr: {fileID: 11500000, guid: e93c41d9d30e3c3418530a7a44642d3e,
+      type: 3}
+    m_ManagedTypeFallback: 
+  m_Properties:
+  - target: {fileID: 0}
+    propertyPath: m_Enabled
+    value: 1
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_EditorHideFlags
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_EditorClassIdentifier
+    value: 
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: fDesire
+    value: 2
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: fBaseDesirability._usage
+    value: 2
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: fBaseDesirability._value
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: fBaseDesirability._constant
+    value: 
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: fBaseDesirability._variable
+    value: 
+    objectReference: {fileID: 11400000, guid: 70dd07585c2b84ca0a717a3f7b813474, type: 2}
+  - target: {fileID: 0}
+    propertyPath: fBaseDesirability._variableInstancer
+    value: 
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: fSpeedDesirability._usage
+    value: 2
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: fSpeedDesirability._value
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: fSpeedDesirability._constant
+    value: 
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: fSpeedDesirability._variable
+    value: 
+    objectReference: {fileID: 11400000, guid: fa1a0f6f30ad84a7689a15d57a954499, type: 2}
+  - target: {fileID: 0}
+    propertyPath: fSpeedDesirability._variableInstancer
+    value: 
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: fTargetDesirability._usage
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: fTargetDesirability._value
+    value: 1
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: fTargetDesirability._constant
+    value: 
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: fTargetDesirability._variable
+    value: 
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: fTargetDesirability._variableInstancer
+    value: 
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: fGrabDesirability._usage
+    value: 2
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: fGrabDesirability._value
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: fGrabDesirability._constant
+    value: 
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: fGrabDesirability._variable
+    value: 
+    objectReference: {fileID: 11400000, guid: 6944a2efc3ece4f1ab5c980786b667ec, type: 2}
+  - target: {fileID: 0}
+    propertyPath: fGrabDesirability._variableInstancer
+    value: 
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: fSpeedSmoothingFrames._usage
+    value: 1
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: fSpeedSmoothingFrames._value
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: fSpeedSmoothingFrames._constant
+    value: 
+    objectReference: {fileID: 11400000, guid: b24297f4935ace14b9c1f62eccbbaa45, type: 2}
+  - target: {fileID: 0}
+    propertyPath: fSpeedSmoothingFrames._variable
+    value: 
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: fSpeedSmoothingFrames._variableInstancer
+    value: 
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: fSpeedSmoothingMax._usage
+    value: 1
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: fSpeedSmoothingMax._value
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: fSpeedSmoothingMax._constant
+    value: 
+    objectReference: {fileID: 11400000, guid: d7c81c3f43dfdb443bf3055882a363e8, type: 2}
+  - target: {fileID: 0}
+    propertyPath: fSpeedSmoothingMax._variable
+    value: 
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: fSpeedSmoothingMax._variableInstancer
+    value: 
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: gizmoColor.r
+    value: 1
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: gizmoColor.g
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: gizmoColor.b
+    value: 0.90825653
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: gizmoColor.a
+    value: 1
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: speed
+    value: 0
+    objectReference: {fileID: 0}
