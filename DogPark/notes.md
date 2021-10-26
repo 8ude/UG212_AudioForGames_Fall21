@@ -15,8 +15,6 @@ For background music/loops. This event is emitted once at the start of the game.
 
 For water sounds. This event is emitted once at the start of the game. The location of the emitter is set to the closest point on the river to the player.
 
-## PlayerDrop
-
 ## PlayerFeet
 
 Emitted when a character foot hits the ground.
