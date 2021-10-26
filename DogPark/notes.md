@@ -27,7 +27,7 @@ Emitted when a character foot hits the ground.
 
 ## PlayerHighlight
 
-?
+Emitted when an object is highlighted (can be picked up).
 
 ## PlayerJump
 
