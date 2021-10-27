@@ -89,15 +89,11 @@ Emitted when a ball collides with something.
 - OnGround
   - Is the ball on the ground? (0 = no, 1 = yes) 
 
-## Grass
+## Grass, Hills and Trees
 
-?
-
-## Hills
-
-?
+These are additional events, in case you want to add more spatial ambience to the game (we will go over how to make more of these and implement them on Monday, Nov 1)
 
 ## NestedAmbience
 
-?
+This is a workaround for adding some variety to the Background Loops event.  It's being called by a scatterer instrument, which can play sounds at some random interval, and also "scatter" them around an origin point.  Here, we're not using spatialization, but we do randomize the panning + volume to get a similar effect.
 
