@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="AudioFile" id="{22cc9e6b-38d6-4cba-9fbe-d100ef82cba0}">
+		<property name="assetPath">
+			<value>Bells, Animal, Cow, Sheep, Cowbell, Fast SND4891.wav</value>
+		</property>
+		<property name="isStreaming">
+			<value>true</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>96</value>
+		</property>
+		<property name="channelCount">
+			<value>2</value>
+		</property>
+		<property name="length">
+			<value>13.227885416666666</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{bbfd057a-b968-45ca-b736-850dba91529e}</destination>
+		</relationship>
+	</object>
+</objects>

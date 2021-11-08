@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="ParameterPreset" id="{7ed0a749-7bd7-4015-ab87-315ca6e4a36c}">
+		<property name="name">
+			<value>MagnetTest</value>
+		</property>
+		<relationship name="folder">
+			<destination>{b7c6d45b-a21f-4681-8703-a61ddede1344}</destination>
+		</relationship>
+		<relationship name="parameter">
+			<destination>{ecb35f0c-fc24-42e4-9bf9-6f7056db95a6}</destination>
+		</relationship>
+	</object>
+	<object class="GameParameter" id="{ecb35f0c-fc24-42e4-9bf9-6f7056db95a6}">
+		<property name="initialValue">
+			<value>0</value>
+		</property>
+	</object>
+</objects>

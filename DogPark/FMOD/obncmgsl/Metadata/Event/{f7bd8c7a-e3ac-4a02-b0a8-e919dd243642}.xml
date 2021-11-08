@@ -419,6 +419,9 @@
 		<property name="maximumScatterDistance">
 			<value>0</value>
 		</property>
+		<property name="volumeRandomization">
+			<value>-6</value>
+		</property>
 		<relationship name="sound">
 			<destination>{a190864b-b32d-42b1-a128-1172a96a3b4f}</destination>
 		</relationship>
@@ -481,6 +484,9 @@
 	<object class="SingleSound" id="{e7ea66de-6296-4ca6-9d3c-d4aacf9a8438}">
 		<property name="length">
 			<value>35.726916099773241</value>
+		</property>
+		<property name="volume">
+			<value>-14.5</value>
 		</property>
 		<property name="looping">
 			<value>true</value>

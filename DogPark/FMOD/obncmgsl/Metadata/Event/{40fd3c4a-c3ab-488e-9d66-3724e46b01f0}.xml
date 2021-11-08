@@ -1,6 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <objects serializationModel="Studio.02.02.00">
 	<object class="Event" id="{40fd3c4a-c3ab-488e-9d66-3724e46b01f0}">
+		<property name="color">
+			<value>Green</value>
+		</property>
 		<property name="name">
 			<value>Hills</value>
 		</property>
@@ -63,7 +66,11 @@
 			<destination>{61d98e92-1df2-4037-b386-9323a0cba4c0}</destination>
 		</relationship>
 	</object>
-	<object class="Timeline" id="{e88b00e4-0ea8-4936-a3d0-0ec0bb8a8345}" />
+	<object class="Timeline" id="{e88b00e4-0ea8-4936-a3d0-0ec0bb8a8345}">
+		<relationship name="markers">
+			<destination>{f39b7705-924b-47e6-abad-08a6f36da7d1}</destination>
+		</relationship>
+	</object>
 	<object class="EventMixerMaster" id="{5700cdce-4dde-4b90-9e16-b11ea35a6de9}">
 		<relationship name="effectChain">
 			<destination>{8fd0f46d-cb59-420d-b428-e51d6dc614a7}</destination>
@@ -93,6 +100,20 @@
 		</relationship>
 		<relationship name="output">
 			<destination>{5700cdce-4dde-4b90-9e16-b11ea35a6de9}</destination>
+		</relationship>
+	</object>
+	<object class="LoopRegion" id="{f39b7705-924b-47e6-abad-08a6f36da7d1}">
+		<property name="position">
+			<value>0</value>
+		</property>
+		<property name="length">
+			<value>9</value>
+		</property>
+		<relationship name="timeline">
+			<destination>{e88b00e4-0ea8-4936-a3d0-0ec0bb8a8345}</destination>
+		</relationship>
+		<relationship name="markerTrack">
+			<destination>{2664d299-6c60-4c30-9d1a-3bf95607c0b6}</destination>
 		</relationship>
 	</object>
 	<object class="MixerBusEffectChain" id="{8fd0f46d-cb59-420d-b428-e51d6dc614a7}">

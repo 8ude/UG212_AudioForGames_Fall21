@@ -115,7 +115,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   sceneId: 0
   serverOnly: 0
-  m_AssetId: 
+  visible: 0
+  m_AssetId: 98fa93c9fcf63435eb8195962d8f4f85
   hasSpawned: 0
 --- !u!114 &2117747302495950200
 MonoBehaviour:
@@ -148,6 +149,7 @@ MonoBehaviour:
     _variable: {fileID: 11400000, guid: 465a6e9859fcf75448342744f4652975, type: 2}
     _variableInstancer: {fileID: 0}
   fmodEmitter: {fileID: 1749107018192901453}
+  debugAudioParams: []
 --- !u!114 &1749107018192901453
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -167,7 +169,7 @@ MonoBehaviour:
       Data2: 1241703340
       Data3: 434743472
       Data4: 1110844637
-    Path: event:/Music
+    Path: event:/BackgroundLoops
   Event: 
   PlayEvent: 1
   StopEvent: 0
