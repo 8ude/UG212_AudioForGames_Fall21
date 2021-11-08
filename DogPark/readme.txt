@@ -1,5 +1,7 @@
 thanks for visiting new froggington on-leash recreation area!
 
+to play single-player, just hit the 'host' button at the bottom of the screen.
+
 controls:
 
 WASD to move.

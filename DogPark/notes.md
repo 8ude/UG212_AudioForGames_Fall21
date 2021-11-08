@@ -74,7 +74,7 @@ Emitted when a ball collides with something.
 ### Params
 - BallType
   - What kind of ball (Red, Blue, Christmas, Orange, Rainbow, Green)
-- ImpactVelociy
+- ImpactVelocity
   - Velocity of the impact (0 to 1)
 - GroundMaterial
   - The material of the surface the ball is hitting.
