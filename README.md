@@ -9,6 +9,19 @@ Name them **YourName_AssignmentTitle**
 
 If it's a build, try to make both Win and Mac builds.  Compress the whole build (the exe, data folder, and any additional files that Unity makes).  If you're having issues making builds, get a few minutes of gameplay capture and upload that.
 
+WEEK 10 ASSIGNMENT - 3D SOUNDSPACE
+------
+Due Monday, November 15 at 4 pm Eastern
+
+Using Resonance Audio and Unity, create a sonic environment/walking simulator/sound installation that makes use of the following:
+
+- At least 5 audio sources that you use to tell some kind of story
+- (optionally) Steam audio features like occlusion, reflection, and HRTF
+
+I recommend starting from the SteamAudioPlayground scene in the example project 
+
+[Upload your builds here](https://drive.google.com/drive/folders/1q9R5bPxBbgCm0saPobhtHCV4v1YgP1nT?usp=sharing)
+
 PROJECT 2 - 3D RESKIN (DOG PARK)
 ------
 Due Monday, November 8 at 4 pm Eastern
