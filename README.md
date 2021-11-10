@@ -13,12 +13,16 @@ WEEK 10 ASSIGNMENT - 3D SOUNDSPACE
 ------
 Due Monday, November 15 at 4 pm Eastern
 
-Using Resonance Audio and Unity, create a sonic environment/walking simulator/sound installation that makes use of the following:
+Using FMOD, Steam Audio and Unity, create a sonic environment/walking simulator/sound installation that makes use of the following:
 
 - At least 5 audio sources that you use to tell some kind of story
 - (optionally) Steam audio features like occlusion, reflection, and HRTF
 
 I recommend starting from the SteamAudioPlayground scene in the example project 
+
+If Steam audio (or FMOD) don't work on your machine for some reason, you can omit one of them and just use Steam Audio or FMOD.
+
+[Here are some instructions](https://docs.google.com/document/d/1ifTZvkEMYmig998efhLC7vzPtUFwqb4a6ijjqu1BibM/edit?usp=sharing) on how to set up both FMOD studio and Steam Audio, if you need to do it from scratch.
 
 [Upload your builds here](https://drive.google.com/drive/folders/1q9R5bPxBbgCm0saPobhtHCV4v1YgP1nT?usp=sharing)
 
