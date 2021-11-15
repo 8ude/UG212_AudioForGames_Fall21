@@ -9,6 +9,22 @@ Name them **YourName_AssignmentTitle**
 
 If it's a build, try to make both Win and Mac builds.  Compress the whole build (the exe, data folder, and any additional files that Unity makes).  If you're having issues making builds, get a few minutes of gameplay capture and upload that.
 
+Week 11 Supplemental Assignment
+------
+Due Monday, Nov 22 at 5 pm
+
+Prepare at least 3 questions for our guest on Voice Acting, [Sarah Elmaleh](https://www.sarahelmaleh.com/)
+
+
+WEEK 11 ASSIGNMENT - MUSIC LOOPS
+------
+Due Monday, November 22 at 4 pm
+
+Create 2 musical loops, each around 20-30 seconds, to accompany the box art of your choosing from This folder.  Think about contrasting gameplay segments (grass zone vs underwater zone, or stealth vs combat, or gameplay vs menu screen). 
+
+Make a folder for your loops [HERE](https://drive.google.com/drive/folders/1FRlZW6X8kNirELsbIAokDYyoMWQvTjb3?usp=sharing), and title your audio files with the game and the gameplay section.
+
+
 WEEK 10 ASSIGNMENT - 3D SOUNDSPACE
 ------
 Due Monday, November 15 at 4 pm Eastern
