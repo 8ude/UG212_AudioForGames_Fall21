@@ -20,7 +20,7 @@ WEEK 11 ASSIGNMENT - MUSIC LOOPS
 ------
 Due Monday, November 22 at 4 pm
 
-Create 2 musical loops, each around 20-30 seconds, to accompany the box art of your choosing from This folder.  Think about contrasting gameplay segments (grass zone vs underwater zone, or stealth vs combat, or gameplay vs menu screen). 
+Create 2 musical loops, each around 20-30 seconds, to accompany the box art of your choosing from [This Folder](https://drive.google.com/drive/folders/1y1WT6uGnjSqSKiAI32qUJAip0p92kIA4?usp=sharing).  Think about contrasting gameplay segments (grass zone vs underwater zone, or stealth vs combat, or gameplay vs menu screen). 
 
 Make a folder for your loops [HERE](https://drive.google.com/drive/folders/1FRlZW6X8kNirELsbIAokDYyoMWQvTjb3?usp=sharing), and title your audio files with the game and the gameplay section.
 
