@@ -18,7 +18,7 @@ Prepare at least 3 questions for our guest on Voice Acting, [Sarah Elmaleh](http
 
 WEEK 11 ASSIGNMENT - MUSIC LOOPS
 ------
-Due Monday, November 22 at 4 pm
+Due Monday, --November 22-- November 29 at 4 pm
 
 Create 2 musical loops, each around 20-30 seconds, to accompany the box art of your choosing from [This Folder](https://drive.google.com/drive/folders/1y1WT6uGnjSqSKiAI32qUJAip0p92kIA4?usp=sharing).  Think about contrasting gameplay segments (grass zone vs underwater zone, or stealth vs combat, or gameplay vs menu screen). 
 
