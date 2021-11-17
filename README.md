@@ -9,6 +9,48 @@ Name them **YourName_AssignmentTitle**
 
 If it's a build, try to make both Win and Mac builds.  Compress the whole build (the exe, data folder, and any additional files that Unity makes).  If you're having issues making builds, get a few minutes of gameplay capture and upload that.
 
+
+FINAL PROJECT - AUDIO GAME
+------
+Final presentations will be on **Monday Dec 13**
+
+Your final project for this class is going to be to make an **audio game**
+
+What's an audio game?  It could be:
+ - a game with no visual feedback (audio-only game)
+ - a game that uses audio as the primary gameplay mechanic (often this means audio-related puzzles, or something like microphone input)  
+ - a game based around an interesting audio phenomenon, like ASMR or psycho-acoustics
+ - a game based around music (like a rhythm game or a sound toy)
+
+If you need some more inspiration, check out this recent podcast on [audio-only games and unsighted players](https://www.20k.org/episodes/videolessgames), this [Audio Game Jam](https://itch.io/jam/agjam) that Maize Wallin organized last year, and [here is a website dedicted to audio-only games](https://audiogames.net/list-games/)
+
+A few favorites of mine:
+
+[Deep Sea by Robin Arnott](https://vimeo.com/17299509) (a No Quarter comission!)
+
+[Papa Sangre](https://www.youtube.com/watch?v=jxXwotksBdM)
+
+[Nightjar](https://www.youtube.com/watch?v=zeBFCQ-aBds) - also by the developers of Papa Sangre.  Unfortunately, a lot of the good audio only games were only on iOS.  The let's plays are all that's left.
+
+[Blind Drive](https://store.steampowered.com/app/1300600/Blind_Drive/)
+
+You can work in groups, and you use can whatever game engine you'd like.
+
+On **Wednesday Dec 1** I will be doing a progress check. At that point you'll have a little over a week to complete the assignment 
+
+You will present your games at the last class on **Monday Dec 13** 
+
+(You can continue to make any changes, and turn in late work, until Monday Dec 20)
+
+Put your final build together with a text or pdf file that contains:
+- your game name
+- your team members names
+- instructions on how to play
+
+And upload a compressed file [HERE](https://drive.google.com/drive/folders/12qnfwD8rnjT5xjs-4NHz8Sp4oHSpaeyH?usp=sharing)
+
+
+
 Week 11 Supplemental Assignment
 ------
 Due Monday, Nov 22 at 5 pm
